@@ -1,0 +1,1 @@
+web: gunicorn listacompras.wsgi --log-file -
