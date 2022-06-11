@@ -79,10 +79,10 @@ WSGI_APPLICATION = 'listacompras.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'lista_itens',
-        'USER': 'postgres',
-        'PASSWORD': '123456',
-        'HOST': 'localhost'
+        'NAME': 'dfvl8tp78egh4t',
+        'USER': 'hwdtunuqjpwklq',
+        'PASSWORD': '3082b9f00c98c0e409c9bd002751dedef5461b46e8a281ded30b4150ce4391b7',
+        'HOST': 'ec2-54-165-178-178.compute-1.amazonaws.com'
     }
 }
 
