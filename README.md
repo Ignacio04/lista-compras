@@ -1,5 +1,6 @@
 ## Lista de Compras - Relatório
 
+Link: https://lista-compras-ignacio.herokuapp.com/
 Inicialmente comecei a pesquisar sobre o que eu poderia fazer, queria algo simples, mas que fosse "útil" para fazer sentido.
 Pensei em extrair o conteúdo de uma API externa e criar um site com isso, mas não encontrei nenhuma que me fizesse ter uma grande ideia, então acabei optando por fazer algo bem comum, um to do list.
 Porém, para não ficar tão comum, fiz uma alteração e acabei criando um site simples de lista de compras, o qual o usuário consegue adicionar itens para comprar, ler essa lista, mudar os itens e apagar quando necessário (basicamente um CRUD).
